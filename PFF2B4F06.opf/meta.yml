@@ -73,3 +73,8 @@ source_metadata:
       parent: Mahāmudrā
 created_at: '2022-03-01T04:49:32.930985'
 last_modified_at: '2022-03-01T04:49:32.930987'
+statistics:
+  total_words: 52598
+  total_non_words: 5167
+quality:
+  non_words_ratio: 0.1
